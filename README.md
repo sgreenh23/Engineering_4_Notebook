@@ -8,7 +8,7 @@ This is where all of my stuff will go!
 ## Hello Mathematica
 ### Lessons Learned
 ### Code
-
+[Hello Mathematica Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Mathematica/HelloMath.nb)
 ## Hello Python
 ### Lessons Learned
 ### Code
