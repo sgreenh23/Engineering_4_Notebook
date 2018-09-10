@@ -12,17 +12,17 @@ This is where all of my stuff will go!
 ## Hello Python
 ### Lessons Learned
 ### Code
-https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/lesson00.py
-https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/diceroller2.py
+[Lesson 00 Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/lesson00.py)
+[Hello Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/diceroller2.py)
 ## Python Program 01 - Calculator
 ### Lessons Learned
 ### Code
-https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Calc1.py
+[Python Program 01 - Calculator Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Calc1.py)
 ## Python Program 02 - Quadratic Solver
 ### Lessons Learned
 ### Code
-https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver.py
-https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver2.py
+[Python Program 02 - Quadratic Solver Code Version 1](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver.py)
+[Python Program 02 - Quadratic Solver Code Version 2](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver2.py)
 ## Hello Git
 ### Lessons Learned
 ### Code
