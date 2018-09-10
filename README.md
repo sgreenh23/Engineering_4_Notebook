@@ -4,7 +4,7 @@ This is where all of my stuff will go!
 ## Hello Raspberry Pi Zero
 ### Lessons Learned
 ### Code
-(https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/AutomaticDiceRoller.py/blob/master/LICENSE)
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/AutomaticDiceRoller.py/blob/master/LICENSE
 ## Hello Mathematica
 ### Lessons Learned
 ### Code
