@@ -22,6 +22,7 @@ This is where all of my stuff will go!
 ### Lessons Learned
 ### Code
 [Python Program 02 - Quadratic Solver Code Version 1](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver.py)
+
 [Python Program 02 - Quadratic Solver Code Version 2](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver2.py)
 ## Hello Git
 ### Lessons Learned
