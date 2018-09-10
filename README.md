@@ -8,15 +8,21 @@ https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Automatic
 ## Hello Mathematica
 ### Lessons Learned
 ### Code
+
 ## Hello Python
 ### Lessons Learned
 ### Code
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/lesson00.py
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/diceroller2.py
 ## Python Program 01 - Calculator
 ### Lessons Learned
 ### Code
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Calc1.py
 ## Python Program 02 - Quadratic Solver
 ### Lessons Learned
 ### Code
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver.py
+https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver2.py
 ## Hello Git
 ### Lessons Learned
 ### Code
