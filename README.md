@@ -44,10 +44,11 @@ This is where all of my stuff will go!
 ## GPIO Pins - Bash
 ### Lessons Learned
 ### Code
+[GPIO Pins - Bash Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Python
 ### Lessons Learned
 ### Code
-[GPIO Pins - Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py))
+[GPIO Pins - Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - SSH
 ### Lessons Learned
 ### Code
