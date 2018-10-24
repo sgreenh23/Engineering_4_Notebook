@@ -40,7 +40,7 @@ This is where all of my stuff will go!
 ## Python Challenge - MSP
 ### Lessons Learned
 ### Code
-[Python Challenge - MSP Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python Challenge-MSP.py)
+[Python Challenge - MSP Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Bash
 ### Lessons Learned
 ### Code
