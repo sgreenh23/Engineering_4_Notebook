@@ -3,6 +3,7 @@ This is where all of my stuff will go!
 
 ## Hello Raspberry Pi Zero
 ### Lessons Learned
+For this assignment, we first set up and plugged in our Raspberry Pi Circuit. This took us a little while, just finding all of the parts and wires and making sure everything was plugged in in the right place. We had a hard time telling apart some of the cables and usbs at first. 
 ### Code
 [Hello Raspberry Pi Zero Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/AutomaticDiceRoller.py)
 ## Hello Mathematica
