@@ -36,7 +36,7 @@ This is where all of my stuff will go!
 ## Python Program 03 - Strings and Loops
 ### Lessons Learned
 ### Code
-[Python Program 03 - Strings and Loops Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/stringsloops.py)
+[Python Program 03 - Strings and Loops Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/StringsLoops.py)
 ## Python Challenge - MSP
 ### Lessons Learned
 ### Code
