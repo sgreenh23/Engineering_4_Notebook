@@ -3,6 +3,7 @@ This is where all of my stuff will go!
 
 ## Hello Raspberry Pi Zero
 ### Lessons Learned
+For this assignment, we first set up and plugged in our Raspberry Pi Circuit. This took us a little while, just finding all of the parts and wires and making sure everything was plugged in in the right place. We had a hard time telling apart some of the cables and usbs at first. 
 ### Code
 [Hello Raspberry Pi Zero Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/AutomaticDiceRoller.py)
 ## Hello Mathematica
@@ -36,15 +37,19 @@ This is where all of my stuff will go!
 ## Python Program 03 - Strings and Loops
 ### Lessons Learned
 ### Code
+[Python Program 03 - Strings and Loops Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/StringsLoops.py)
 ## Python Challenge - MSP
 ### Lessons Learned
 ### Code
+[Python Challenge - MSP Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Bash
 ### Lessons Learned
 ### Code
+[GPIO Pins - Bash Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Python
 ### Lessons Learned
 ### Code
+[GPIO Pins - Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - SSH
 ### Lessons Learned
 ### Code
