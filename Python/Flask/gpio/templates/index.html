@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+	<title>GPIO with Flask!</title>
+
+<style>
+body {
+	background-image: linear-gradient(red, yellow);
+	height: 1200px
+}
+
+button {
+	border-color: orange;
+	border-radius: 25px
+}
+
+</style>
+
+</head>
+<body>
+
+{{msg1}}
+{{msg2}}
+<form method="POST">
+	<button style="color: black" type="submit" name="submitBtn" value="You clicked 1!">{{btn1}}</button>
+</form>
+<form method="POST">
+	<button style="color: black" type="submit" name="submitBtn" value="You clicked 2!">{{btn2}}</button>
+</form>
+</body>
+</html>
+
