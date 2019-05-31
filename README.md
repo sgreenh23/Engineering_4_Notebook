@@ -19,7 +19,7 @@ For this assignment we learned the python script by writing a loop to print "Hel
 [Hello Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/diceroller2.py)
 ## Python Program 01 - Calculator
 ### Lessons Learned
-
+In this assignment, we learned to use Python to add, subtract, multiply, divide, and find the remainder of two numbers. We asked the program to print the return from our function. The tricky part was figuring out how to use one function for each of the equations.
 ### Code
 [Python Program 01 - Calculator Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Calc1.py)
 ## Python Program 02 - Quadratic Solver
