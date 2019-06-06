@@ -60,10 +60,12 @@ This code was pretty similar to the last assignment. The only challenge here was
 [GPIO Pins - Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - SSH
 ### Lessons Learned
-### Code
+In Canvas, this assignment asks, "what good is a computer without an internet connection?" Turns out, our computer hates connecting to the internet, so although the code was simple and we were able to download the app, the assignment took us longer than it should have. We also had changed our password, so it took us a bit of time to remember that. We now know to watch out for our wifi connection though. We ended up switching computers to try to get a better connection.
 ## Hello Flask
 ### Lessons Learned
+Most of this assignment was just following directions from Canvas, but it was interesting to see how we could use Flask to connect to a web browser. Again, we ended up wasting a lot of time waiting for our bad wifi connection.
 ### Code
+
 ## GPIO Pins - Flask
 ### Lessons Learned
 ### Code
