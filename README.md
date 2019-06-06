@@ -84,8 +84,10 @@ Rather than making a line plot, we used an ellipse that expanded and contracted 
 [Headless Code](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/headless.py)
 ## Pi Camera
 ### Lessons Learned
+It was interesting to see all of the different effects of the camera. We found a helpful website that had a lot of examples of different things we could do with the camera. We were able to combine bits of code from this website to complete our assignments.
 ### Code
 ## Copypasta
 ### Lessons Learned
+This assignment was a lot of fun. Most of it was following directions, but we were able to customize our code a bit to make it more interesting. For our stop-motion video, we took pictures of Hallie's knitting and put them together to make one smooth video.
 ### Code
 
