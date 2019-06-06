@@ -65,20 +65,24 @@ In Canvas, this assignment asks, "what good is a computer without an internet co
 ### Lessons Learned
 Most of this assignment was just following directions from Canvas, but it was interesting to see how we could use Flask to connect to a web browser. Again, we ended up wasting a lot of time waiting for our bad wifi connection.
 ### Code
-
+[Hello Flask Code](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py)
 ## GPIO Pins - Flask
 ### Lessons Learned
+This assignment involved creating a web page that the user could use to control two LEDs connected to our breadboard. It was interesting to figure out how to use the POST and GET requests, and to see how the url of a webpage corresponds to the code that's creating it. We had a lot of fun customizing our page with a beautiful color scheme. We also helped Adam and Joe make their page more aesthetically pleasing. Our wifi was still an issue, and we had some trouble making the buttons respond to clicks in the way we wanted them to. For a while, you had to click the buttons in a specific sequence to get the LEDs to turn on and off and make the right message appear, but we were able to fix that problem.
 ### Code
+[GPIO Pins - Flask Code 1](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
+[GPIO Pins - Flask Code 2](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html)
 ## GPIO Pins - I2C
 ### Lessons Learned
+In this assignment we learned how to connect our Pi to an accelerometer and an OLED display using I2C. To do this we had to make sure our I2C address was correct. Then, we had to display the rounded accelerometer data on our OLED display. It took us some time to figure this out, but we found a helpful website that had a lot of tips for coding drawings.
 ### Code
+[GPIO Pins - I2C Code](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/mashedshapes.py)
 ## Headless
 ### Lessons Learned
+Rather than making a line plot, we used an ellipse that expanded and contracted according to our accelerometer data. We decided to make the code run automatically at startup, rather than have it connect to another device using wifi, since that hasn't been very reliable for us. Most of this assignment was just figuring out how to adapt what we had learned from the last assignment into this one. It was really cool to be able to see the fruits of our labor on the OLED display while we worked on it and after we finished.
 ### Code
+[Headless Code](https://github.com/cpughse63/Engineering_4_Notebook/blob/master/Python/headless.py)
 ## Pi Camera
-### Lessons Learned
-### Code
-## Hack Your Stuff
 ### Lessons Learned
 ### Code
 ## Copypasta
