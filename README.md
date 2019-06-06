@@ -24,6 +24,7 @@ In this assignment, we learned to use Python to add, subtract, multiply, divide,
 [Python Program 01 - Calculator Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Calc1.py)
 ## Python Program 02 - Quadratic Solver
 ### Lessons Learned
+This assignment asked us to calulate a discriminant after inputting three coefficients. The program then returns a message based on the value of the discriminant. The hardest part of this assignment for us was figuring out how to return an array, and learning how to use "if," "elif," and "else" statements with each other.
 ### Code
 [Python Program 02 - Quadratic Solver Code Version 1](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver.py)
 
