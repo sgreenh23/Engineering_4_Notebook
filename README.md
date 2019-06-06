@@ -1,6 +1,18 @@
 # Engineering 4 Notebook
 This is where all of my stuff will go!
 
+## Five Things I've Learned in Engineering
+
+The thickness of acrylic sheets is 3.18 mm
+
+For the Solidworks Exams do the assemblies first
+
+Make multiple prototypes before working on the final product
+
+Design everything in Solidworks to make sure it works the way planned before actually constucting it
+
+Wire everything on a breadboard, attached to the computer, to make sure it actually works before wiring it in the project, because then it is harder to test and make changes
+
 ## Hello Raspberry Pi Zero
 ### Lessons Learned
 For this assignment, we first set up and plugged in our Raspberry Pi Circuit. This took us a little while, just finding all of the parts and wires and making sure everything was plugged in in the right place. We had a hard time telling apart some of the cables and usbs at first. Once we got everything wired, we began to learn how to code on Terminal. We learned to write a bash script and a loop to display "Hello World" ten times! The main thing we learned from this assignment was the new syntax, since it is very different and much more straight-forward than coding on Arduino. 
