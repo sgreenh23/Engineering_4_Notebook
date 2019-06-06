@@ -31,27 +31,31 @@ This assignment asked us to calulate a discriminant after inputting three coeffi
 [Python Program 02 - Quadratic Solver Code Version 2](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/QuadraticSolver2.py)
 ## Hello Git
 ### Lessons Learned
-### Code
+We set up our git pages. We also learned how to commit and push files so that we can save our code in GitHub instead of just on the Raspberry Pi.
 ## Git - Forks and Clones
 ### Lessons Learned
-### Code
+We learned how to use the collaborative part of GitHub, and added our names and fun facts to the cool-repo page. Since we were just following directions for this assignment, it went pretty quickly, though we did have some trouble thinking of fun facts.
 ## Git - Engineering 4 Notebook
 ### Lessons Learned
-### Code
+We added the previous assignments to our notebook. It was not very challenging, just time consuming.
 ## Python Program 03 - Strings and Loops
 ### Lessons Learned
+The code for this was not very long, but it took us a while to figure out how to split the sentence into words, and then break the words down into letters. We originally assumed we could use the same process for both of those actions, but eventually realized that we needed to use a list for the letters instead.
 ### Code
 [Python Program 03 - Strings and Loops Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/StringsLoops.py)
 ## Python Challenge - MSP
 ### Lessons Learned
+This assignment was a lot of fun, but it took us forever! We had to draw on a lot of the previous assignments and find bits of code from all over the internet to complete it. When we tried to code the hangman image, we had to figure out how to get each arm and leg to appear individually. At first, it would print all the stages, so we had to adjust the code to make the prior arm/leg stages disappear as another one appeared. Eventually we figured out how to get the function to skip over some of the stages while printing the list. We also had some trouble replacing the blanks in the word with real letters, rather than just adding the letters at the end of the line of blanks. Once we finished the game, we had fun making everyone test it.
 ### Code
 [Python Challenge - MSP Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Bash
 ### Lessons Learned
+This assignment involved a lot of soldering so we could connect the T-cobbler to our Pi. After that, the code was pretty simple once we figured out which pins matched up. We found an image online that was helpful.
 ### Code
 [GPIO Pins - Bash Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - Python
 ### Lessons Learned
+This code was pretty similar to the last assignment. The only challenge here was figuring out how to get Python to interact with the GPIO pins. It took only a few extra lines of code.
 ### Code
 [GPIO Pins - Python Code](https://github.com/sgreenh23/Engineering_4_Notebook/blob/master/Python/Python%20Challenge-MSP.py)
 ## GPIO Pins - SSH
